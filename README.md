@@ -1,0 +1,3 @@
+# resize
+# Dimens-ofotos
+# RedimensionarFotos
